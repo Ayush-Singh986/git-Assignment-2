@@ -2,6 +2,7 @@ Moning
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 change in first
 =======
 update in third
@@ -12,3 +13,5 @@ update in third
 =======
 update in third
 >>>>>>> third
+=======
+>>>>>>> parent of f190f94 (Modified all files in first branch)
