@@ -1,2 +1,6 @@
 Good
+<<<<<<< HEAD
 change in first
+=======
+update in third
+>>>>>>> third
