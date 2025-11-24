@@ -1,7 +1,11 @@
 Good
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 change in first
+=======
+update in third
+>>>>>>> third
 =======
 update in third
 >>>>>>> third
